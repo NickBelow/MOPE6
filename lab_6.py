@@ -18,6 +18,7 @@ for i in range(100):
         return gp < gt
 
 
+
     def geny(n , m):
         def f(x1 , x2 , x3):
             f = 9.1 + 1.8 * x1 + 6.5 * x2 + 8.7 * x3
